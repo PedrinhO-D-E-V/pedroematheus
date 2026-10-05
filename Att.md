@@ -66,6 +66,7 @@ Desligue o computador pelo sistema operacional e retire o cabo de alimentação 
 Remova os parafusos da tampa lateral e retire-a com cuidado.
 
 ![Abertura do gabinete](https://i.imgur.com/I5TiUie.png)
+
 *Acesso ao interior do gabinete.*
 
 ### 3. Desconectar a fonte de alimentação
@@ -81,9 +82,11 @@ Desconecte os cabos da fonte dos componentes.
 > 💡 Não puxe os cabos pelos fios. Segure o conector ao desconectá-lo.
 
 ![Cabos da fonte](https://i.imgur.com/4kwyrW1.png)
+
 *Conectores da fonte.*
 
 ![Conexões de alimentação](https://i.imgur.com/gROuoP6.png)
+
 *Desconexão dos cabos de alimentação.*
 
 ### 4. Remover a fonte
@@ -91,6 +94,7 @@ Desconecte os cabos da fonte dos componentes.
 Após desconectar os cabos, remova os parafusos que prendem a fonte ao gabinete e retire-a cuidadosamente.
 
 ![Remoção da fonte](https://i.imgur.com/e9wmIlJ.png)
+
 *Retirada da fonte de alimentação.*
 
 ### 5. Remover placas de expansão
@@ -100,9 +104,11 @@ Quando existirem, remova placas de vídeo, som, rede, captura e outras PCI/PCIe.
 Antes, remova os parafusos de fixação e desconecte os cabos de alimentação, quando houver.
 
 ![Placa de expansão](https://i.imgur.com/Y9X6T5M.png)
+
 *Placa de expansão.*
 
 ![Remoção de placa](https://i.imgur.com/zzPvobR.png)
+
 *Retirada da placa do gabinete.*
 
 ### 6. Desconectar os cabos de dados
@@ -113,6 +119,7 @@ Desconecte os cabos responsáveis pela comunicação com os dispositivos de arma
 - Outros cabos de dados, dependendo do equipamento.
 
 ![Cabo SATA](https://i.imgur.com/uC87u1x.png)
+
 *Conexão de dados SATA.*
 
 ### 7. Remover os dispositivos de armazenamento
@@ -126,6 +133,7 @@ Remova os dispositivos instalados no gabinete:
 > ⚠️ SSDs M.2 são instalados diretamente na placa-mãe e possuem procedimento diferente dos dispositivos SATA.
 
 ![Dispositivo de armazenamento](https://i.imgur.com/VoXWZXF.png)
+
 *Armazenamento do computador.*
 
 ### 8. Remover a memória RAM
@@ -133,9 +141,11 @@ Remova os dispositivos instalados no gabinete:
 Abra as travas laterais do slot e retire o módulo segurando-o pelas bordas. Evite tocar diretamente nos contatos dourados.
 
 ![Memória RAM](https://i.imgur.com/gZbBdsu.png)
+
 *Memória RAM no slot.*
 
 ![Remoção da RAM](https://i.imgur.com/oWmlKBG.png)
+
 *Retirada da memória RAM.*
 
 ### 10. Remover o cooler do processador
@@ -145,9 +155,11 @@ Desconecte a ventoinha do conector **CPU_FAN** e remova o sistema de fixação d
 > ⚠️ Se o cooler estiver preso pela pasta térmica, não force. Faça movimentos leves para soltá-lo.
 
 ![Cooler do processador](https://i.imgur.com/LeLEUZ1.png)
+
 *Cooler antes da retirada.*
 
 ![Remoção do cooler](https://i.imgur.com/IkCMYKV.png)
+
 *Remoção do sistema de refrigeração.*
 
 ### 11. Remover o processador
@@ -160,9 +172,11 @@ Desconecte a ventoinha do conector **CPU_FAN** e remova o sistema de fixação d
 > ⚠️ Evite tocar desnecessariamente nos contatos do processador ou do soquete.
 
 ![Processador](https://i.imgur.com/UhSESHd.png)
+
 *Processador.*
 
 ![Soquete do processador](https://i.imgur.com/8eFwjoV.png)
+
 *Soquete da placa-mãe.*
 
 ### 12. Remover a placa-mãe
@@ -174,6 +188,7 @@ Confirme que todos os cabos e componentes estão desconectados. Depois:
 3. Retire-a cuidadosamente do chassi.
 
 ![Placa-mãe](https://i.imgur.com/FMt6K49.png)
+
 *Placa-mãe fora do gabinete.*
 
 ## Limpeza dos componentes
@@ -212,6 +227,7 @@ Confira também se os **espaçadores (standoffs)** da placa-mãe estão posicion
 > ⚠️ Nunca instale a placa-mãe diretamente sobre o chassi metálico sem os espaçadores apropriados.
 
 ![Espaçadores do gabinete](https://i.imgur.com/pZ68LO3.png)
+
 *Espaçadores para fixação da placa-mãe.*
 
 ### 2. Instalação da placa-mãe
@@ -223,9 +239,11 @@ Posicione a placa-mãe cuidadosamente dentro do gabinete, alinhando-a aos espaç
 3. Aperte-os sem aplicar força excessiva.
 
 ![Instalação da placa-mãe](https://i.imgur.com/FMt6K49.png)
+
 *Posicionamento da placa-mãe.*
 
 ![Fixação da placa-mãe](https://i.imgur.com/dvOCEwU.png)
+
 *Fixação da placa-mãe.*
 
 ### 3. Instalação do processador
@@ -239,6 +257,7 @@ Posicione a placa-mãe cuidadosamente dentro do gabinete, alinhando-a aos espaç
 > ⚠️ O processador deve encaixar naturalmente. Nunca force a CPU no soquete.
 
 ![Instalação do processador](https://i.imgur.com/twxsqdv.png)
+
 *Posicionamento da CPU.*
 
 ### 4. Pasta térmica e cooler
@@ -252,12 +271,15 @@ A pasta térmica auxilia na transferência de calor entre o processador e o diss
 5. Conecte a ventoinha ao conector **CPU_FAN**.
 
 ![Pasta térmica](https://i.imgur.com/AwtcqGB.png)
+
 *Aplicação da pasta térmica.*
 
 ![Cooler](https://i.imgur.com/fpuQou7.png)
+
 *Instalação do cooler.*
 
 ![Conector CPU FAN](https://i.imgur.com/SA29Bgh.png)
+
 *Conexão do CPU_FAN.*
 
 ### 5. Instalação da memória RAM
@@ -271,9 +293,11 @@ A pasta térmica auxilia na transferência de calor entre o processador e o diss
 Quando houver dois módulos, utilize os slots recomendados pelo manual da placa-mãe. A posição varia de acordo com o modelo; em muitas placas são usados A2 e B2.
 
 ![Memória RAM](https://i.imgur.com/eHBzcqP.png)
+
 *Instalação da memória.*
 
 ![Slots da memória RAM](https://i.imgur.com/qZfPIex.png)
+
 *Slots de memória.*
 
 ### 6. Instalação da placa de vídeo
@@ -297,13 +321,16 @@ Caso o computador possua GPU dedicada, instale-a no slot PCI Express, fixe-a ao 
 4. Fixe-o com o parafuso apropriado.
 
 ![SSD](https://i.imgur.com/E3XkUAI.png)
+
 *Dispositivo de armazenamento.*
 
 ![Instalação de armazenamento](https://i.imgur.com/pZZYRnx.png)
+
 *Instalação do dispositivo.*
 
 ![SSD M.2](https://i.imgur.com/axvAQuw.png)
-*SSD M.2.*
+
+*Dispositivo de disco físico*
 
 ### 8. Instalação da fonte de alimentação
 
@@ -314,6 +341,7 @@ Posicione a fonte no local apropriado do gabinete.
 3. Aperte-os adequadamente.
 
 ![Instalação da fonte](https://i.imgur.com/036e55i.png)
+
 *Fixação da fonte.*
 
 ### 9. Conectar os cabos da fonte
@@ -324,6 +352,7 @@ Posicione a fonte no local apropriado do gabinete.
 *Cabos de alimentação.*
 
 ![Conexão da fonte](https://i.imgur.com/TAZd3yZ.png)
+
 *Conexões da fonte.*
 
 ### 10. Conectar as ventoinhas
@@ -334,12 +363,15 @@ Posicione a fonte no local apropriado do gabinete.
 Verifique se as ventoinhas estão instaladas na direção correta para criar um fluxo de ar adequado.
 
 ![Ventoinha](https://i.imgur.com/VJyJnUI.png)
+
 *Ventoinha do gabinete.*
 
 ![Conector de ventoinha](https://i.imgur.com/9vfHscN.png)
+
 *Conexão das ventoinhas.*
 
 ![Fluxo de ar](https://i.imgur.com/lLO40zI.png)
+
 *Organização do fluxo de ar.*
 
 ### 11. Conferência antes de ligar
